@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Master Student at USC in Computer Science and a Researcher in USC iLab. Prior to USC, I did my undergraduate study in Physics at Georgia Tech. I've also spent time with the Agile Systems Lab and Photonics Research Group at Georgia Tech.
+I'm an incoming PhD student at USC in Computer Science, and affilicated to USC ISI MINDS (Machine Intelligence and Data Science) group. I've finished my graduate study in Computer Science at USC and worked in USC iLab. I've finished my undergraduate study in Physics at Georgia Tech. I've also spent time working with the Agile Systems Lab and Photonics Research Group at Georgia Tech.
 
-I work on new algorithms and datasets in natural language processing and machine learning to make our AI systems cheaper (less labeled data), transparent (explainability) and reliable (incorporating human knowledge, constraints, and decision rationales). My group (INK Lab) focuses on developing label-efficient, prior-informed models that extract machine-actionable knowledge from natural language data, perform neural-symbolic knowledge reasoning for intelligent applications, and learning (to adapt and improve) from human explanations and instructions. Please check out the our group website for more information.
+I work on new machine learning algorithms that have potentials to pave the way for Artificial General Intelligence. My research interests include continual learning, life-long learning, transfer learning and causal learning.
+
 
 A summary of my PhD work on label-efficient NLP can be found in the book "Mining Structures of Factual Knowledge from Text: An Effort-Light Approach". Our research work is funded by NSF (CAREER award, SciSIP #1829268), DARPA (MCS, INCAS, SCORE, GAILA, SAIL-ON), IARPA (BETTER, SAGE), and gift awards from industry partners including Google, Amazon, JP Morgan, Adobe, Sony, and Snapchat.
 

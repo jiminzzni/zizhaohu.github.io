@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Take care of youself❤️"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm an incoming PhD student at USC in Computer Science, and affilicated to USC ISI MINDS (Machine Intelligence and Data Science) group. I've finished my graduate study in Computer Science at USC and worked in USC iLab. I've finished my undergraduate study in Physics at Georgia Tech. I've also spent time working with the Agile Systems Lab and Photonics Research Group at Georgia Tech.
+I'm a first year PhD student in Computer Science at USC, and I'm affilicated to USC ISI MINDS (Machine Intelligence and Data Science) group. I've finished my graduate study in Computer Science at USC and worked in USC iLab. I've finished my undergraduate study in Physics at Georgia Tech. I've also spent time working with the Agile Systems Lab and Photonics Research Group at Georgia Tech.
 
-I work on new machine learning algorithms that have potentials to pave the way for Artificial General Intelligence. My research interests include continual learning, life-long learning, transfer learning and causal learning.
+I am working on developing new machine learning models/algorithms that have potentials to pave the way for Artificial General Intelligence. My research interests include continual learning, lifelong learning, few-shot learning, transfer learning, and multimodal learning. Join us to push the research for AGI, which has the potential to solve Aging, Cancer, Safe Fusion Energy, and ANY System\Structure\Art Design problems.
 
 
 A summary of my PhD work on label-efficient NLP can be found in the book "Mining Structures of Factual Knowledge from Text: An Effort-Light Approach". Our research work is funded by NSF (CAREER award, SciSIP #1829268), DARPA (MCS, INCAS, SCORE, GAILA, SAIL-ON), IARPA (BETTER, SAGE), and gift awards from industry partners including Google, Amazon, JP Morgan, Adobe, Sony, and Snapchat.

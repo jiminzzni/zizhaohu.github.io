@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year PhD student in Computer Science at USC, and I'm affilicated to USC ISI MINDS (Machine Intelligence and Data Science) group. I've finished my graduate study in Computer Science at USC and worked in USC iLab. I've finished my undergraduate study in Physics at Georgia Tech. I've also spent time working with the Agile Systems Lab and Photonics Research Group at Georgia Tech.
+I am a Ph.D. student in CS at USC, affiliated with the USC ISI MINDS group. I was previously a research assistant at USC iLab. I have also worked with the Agile Systems Lab and Photonics Research Group at Georgia Tech.
 
-I am working on developing new machine learning models/algorithms that have potentials to pave the way for Artificial General Intelligence. My research interests include continual learning, lifelong learning, few-shot learning, transfer learning, and multimodal learning. Join us to push the research for AGI, which has the potential to solve Aging, Cancer, Safe Fusion Energy, and ANY System\Structure\Art Design problems.
+My research interests include Generative Modeling(Score-based Diffusion Models, GAN, VAE, etc..), Multimodal Learning, and Continual Learning. My current projects are on multimodal diffusion/consistency models. 
 
+My long-term goal is to develop efficient and human-inspired machine learning models/algorithms that have the potential to exceed general human intelligence and pave the way for AGI, which will serve as a general tool for speeding the development of theoretical science and applied science: physics, material design, commercial superconductor, quantum computing, solutions for aging & cancer, and controllable fusion energy.
 
 <!-- A summary of my PhD work on label-efficient NLP can be found in the book "Mining Structures of Factual Knowledge from Text: An Effort-Light Approach". Our research work is funded by NSF (CAREER award, SciSIP #1829268), DARPA (MCS, INCAS, SCORE, GAILA, SAIL-ON), IARPA (BETTER, SAGE), and gift awards from industry partners including Google, Amazon, JP Morgan, Adobe, Sony, and Snapchat.
 

@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in CS at USC, affiliated with the USC ISI MINDS group. I was previously a research assistant at USC iLab. I have also worked with the Agile Systems Lab and Photonics Research Group at Georgia Tech.
-
+I am a Ph.D. student in CS at USC, affiliated with the USC ISI MINDS group.
 My research interests include Generative Modeling(Score-based Diffusion Models, GAN, VAE, etc..), Multimodal Learning, and Continual Learning. My current projects are on multimodal diffusion/consistency models. 
 
 My long-term goal is to develop efficient and human-inspired machine learning models/algorithms that have the potential to exceed general human intelligence and pave the way for AGI, which will serve as a general tool for speeding the development of theoretical science and applied science: physics, material design, commercial superconductor, quantum computing, solutions for aging & cancer, and controllable fusion energy.

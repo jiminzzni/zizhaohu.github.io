@@ -8,9 +8,10 @@ redirect_from:
 ---
 
 I am a Ph.D. student in CS at USC, affiliated with the USC ISI MINDS group.
-My research interests include Generative Modeling(Score-based Diffusion Models, GAN, VAE, etc..), Multimodal Learning, and Continual Learning. My current projects are on multimodal diffusion/consistency models. 
 
-My long-term goal is to develop efficient and human-inspired machine learning models/algorithms that have the potential to exceed general human intelligence and pave the way for AGI, which will serve as a general tool for speeding the development of theoretical science and applied science: physics, material design, commercial superconductor, quantum computing, solutions for aging & cancer, and controllable fusion energy.
+My research interests include Generative Modeling(Diffusion Model, Consistency Model, GAN, VAE, etc..), Multimodal Learning, Meta-learning, and Life-long Learning. My current projects are related to new generative learning schemes with better temporal understanding, aiming to bridge the gap between AI and human intelligence. [academicpages template](https://github.com/academicpages/academicpages.github.io)
+
+My long-term goal is to develop efficient and human-inspired machine learning models that have the potential to exceed general human intelligence and pave the way for AGI, which will serve as a general tool for speeding the development of physics, material design, quantum computing, solutions for aging & cancer, controllable fusion energy, etc..
 
 <!-- A summary of my PhD work on label-efficient NLP can be found in the book "Mining Structures of Factual Knowledge from Text: An Effort-Light Approach". Our research work is funded by NSF (CAREER award, SciSIP #1829268), DARPA (MCS, INCAS, SCORE, GAILA, SAIL-ON), IARPA (BETTER, SAGE), and gift awards from industry partners including Google, Amazon, JP Morgan, Adobe, Sony, and Snapchat.
 
